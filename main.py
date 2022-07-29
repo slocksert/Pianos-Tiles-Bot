@@ -1,5 +1,3 @@
-import cv2
-import numpy as np
 import pyautogui
 from mss import mss
 import time
